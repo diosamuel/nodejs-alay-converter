@@ -3,7 +3,8 @@ convert teks biasa ke alay
 
 ## Cara pakai
 
-```const alay=require('./alay')
+```js
+const alay=require('./alay')
 
 let teks = `
 	ahsiap santuy
