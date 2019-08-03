@@ -14,4 +14,5 @@ let alaybanget = alay.Convert(teks);
 let alaybapak_bapak = alay.bapacc(teks);
 let alaysingkat = alay.singkat(teks);
 
-console.log(alaybanget,alaybapak_bapak,alaysingkat)```
+console.log(alaybanget,alaybapak_bapak,alaysingkat)
+```
